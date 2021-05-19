@@ -1,0 +1,17 @@
+var first_name = "anand";
+var last_name = "sagar";
+var fullname = first_name.concat(last_name);
+console.log(fullname);
+var fulllength = fullname.length;
+console.log(fulllength);
+var making_upper_case = fullname.toUpperCase();
+console.log(making_upper_case);
+var a = 20;
+var b = 5;
+var square_root= Math.sqrt(a,b);
+console.log(square_root);
+var maximumn_no = Math.max(a,b);
+console.log(maximumn_no);
+var minimum_no = Math.min(a,b);
+console.log(minimum_no);
+var power = Math.pow(a,b);
